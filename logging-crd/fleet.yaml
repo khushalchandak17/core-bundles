@@ -4,3 +4,4 @@ helm:
   releaseName: rancher-logging-crd
   repo: https://charts.rancher.io
   chart: rancher-logging-crd
+  version: 45.5.0
