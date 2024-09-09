@@ -1,0 +1,10 @@
+defaultNamespace: nginx
+helm:
+  releaseName: grafana
+  chart: grafana
+  repo: https://grafana.github.io/helm-charts
+namespaceLabels:
+  key: valueL
+namespaceAnnotations: {}
+labels:
+  key: valuetestchangedSS2
